@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 👗 Vista-se Bem
 
 Bem-vindo à **Vista-se Bem**, uma loja de roupas online desenvolvida como parte da atividade integrada de **Desenvolvimento Web**.  
